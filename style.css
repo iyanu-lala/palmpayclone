@@ -1,19 +1,22 @@
-* {
+body {
     padding: 0;
     margin: 0;
     font-family: Poppins, sans-serif;
+    /* background-image: url(images/PalmPay_ Say yes to more/background.png); */
+    
 }
 .flex-container1 {
     height: 60px;
     width: 100%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     display: flex;
     position: fixed;
     background-color: white;
+
 }
 img1 {
-    width: 80px;
-    height: 25px;
+    width: 50px;
+    height: 20px;
     letter-spacing: 5px;
     margin: 20px 20px 20px 100px;
 }
@@ -229,6 +232,7 @@ width: 100%;
     margin-top: 100px;
 /* padding-left: 40px; */
 padding-right: 200px;
+text-shadow: 2px 5px #cfcfcf;
 }
 .rate {
     height: 60px;
@@ -248,17 +252,273 @@ padding-right: 200px;
     width: 550px;
     /* border: 2px solid; */
     border-radius: 50px;
-    margin: 50px 100px  0 30px;
+    margin: 100px 100px  0 30px;
 }
 .flex-container7 {
 height: 770px;
 width: 100%;
 display: flex;
-border: 2px solid;
+/* border: 2px solid; */
 }
 .img10 {
     height: 520px;
     width: 550px;
     border-radius: 50px;
-    margin: 50px ; 
+    margin: 120px 0 100px 70px ; 
+}
+.flex-container8 {
+    height: 700px;
+    width: 100%;
+    /* border: 2px solid; */
+    background-color: #F8F8FF;
+}
+.flex-child81 {
+    color: #490181;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.flex-child82 {
+    height: 80px;
+    width: 450px;
+    /* border: 2px solid; */
+    background-position: center;
+    margin-left: 400px;
+    margin-right: 300px;
+    display: flex;
+}
+.cbn {
+    height: 70px;
+width: 50PX;
+}
+.bCBN {
+    color: #4d0683;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    padding-right: 30px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.licence {
+    display: flex;
+}
+.ndic {
+    height: 60px;
+    width: 100px;
+}
+.flex-child83 {
+    height: 200px;
+    width: 100%;
+    /* border: 2px solid; */
+    margin-top: 100px;
+    display: flex;
+}
+.box {
+    height: 200px;
+    width: 470px;
+    /* border: 2px solid; */
+    /* margin-right: 30px; */
+}
+.box1 {
+    height: 200px;
+    width: 450px;
+    /* border: 2px solid; */
+    /* margin-right: 30px; */
+    border-left: 2px solid #4d0683;
+    border-right: 2px solid #4d0683;
+}
+.box2 {
+    height: 200px;
+    width: 470px;
+    /* border: 2px solid; */
+    /* border-left: 2px solid #4d0683; */
+}
+.firstp1 {
+    color: #4d0683;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.first2 {
+    color: #490781;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin: 30px 100px;
+}
+.flex-container9 {
+    height: 750px;
+    width: 100%;
+    background-color: #E6C5FF;
+}
+.loved {
+    color: #4d0683;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 50px;
+}
+.we {
+    color: #4d0683;
+    font-size: 22px;
+    line-height: 28.6px;
+    font-weight: 400;
+    text-align: center;
+    padding: 50px 300px 0px 300px;
+}
+.box3 {
+    height: 350px;
+    width: 440px;
+    /* border: 2px solid; */
+    align-items: center;
+    justify-self: center;
+    border-radius: 35px;
+    margin-top: 50px;
+    background-color: white;
+}
+.anna {
+    font-size: 16px;
+    padding-left: 45px;
+    padding-top: 50px;
+}
+.annap {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    padding: 40px;
+    padding-right: 60px;
+    font-family: Poppins, sans-serif;
+}
+.appstore {
+    height: 50px;
+    width: 170px;
+    margin-left: 480px;
+    margin-top: 30px;
+}
+.gstore {
+    height: 50px;
+    width: 170px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.store {
+    display: flex;
+}
+.flex-container10 {
+    height: 680px;
+    width: 100%;
+    /* border: 2px solid; */
+    display: flex;
+}
+.card {
+    height: 650px;
+    width: 450px;
+    margin-top: 30px;
+    margin-left: 205px;
+}
+.download {
+    color: #4d0683;
+    font-size: 43px;
+    line-height: 43px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 250px;
+    margin-left: 100px;
+    padding-right: 120px;
+    font-family: Montserrat, sans-serif;
+    padding-bottom: 50px;
+}
+.appstoreb {
+    height: 60px;
+    width: 180px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.pic {
+    display: flex;
+    flex-direction: column;
+}
+.appb {
+    height: 60px;
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.flex-container11 {
+    height: 120px;
+    width: 100%;
+    /* border: 2px solid; */
+    background-color: #6337B6;
+    display: flex;
+}
+.join {
+    color: white;
+    line-height: 120px;
+    font-weight: 600;
+    font-size: 32px;
+    padding-left: 100px;
+}
+.a40a {
+font-size: 40px;
+line-height: 120px;
+font-weight: 900;
+}
+.storeapp {
+     height: 50px;
+    width: 170px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.storea {
+      height: 50px;
+    width: 170px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.flex-container12 {
+    height: 480px;
+    width: 100%;
+    border: 2px solid rgb(77, 76, 76);
+    background-color: #1E1E1E;
+}
+.palm {
+    height: 350px;
+    width: 160px;
+    /* border: 2px solid pink; */
+    margin-bottom: 86px;
+    margin-top: 60px;
+    margin-left: 15px;
+}
+.button {
+    height: 40px;
+    width: 100%;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.imgcbn {
+    height: 36px;
+    width: 25px;
+    align-items: center;
+    justify-self: center;
+    margin-left: 70px;
+}
+.imgPCI {
+    /* margin-left: 70px; */
+    height: 40px;
+    width: 100%;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.ncdi {
+    height: 40px;
+    width:  80px;
+    margin-left: 50px;
 }
