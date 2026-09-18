@@ -382,7 +382,7 @@ width: 50PX;
 }
 .anna {
     font-size: 16px;
-    padding-left: 45px;
+    padding-left: 20px;
     padding-top: 50px;
 }
 .annap {
@@ -597,4 +597,9 @@ font-weight: 900;
 .Ann {
     height: 40px;
     width: 40px;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+.A {
+    display: flex;
 }
