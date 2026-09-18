@@ -480,7 +480,7 @@ font-weight: 900;
     margin-left: 30px;
 }
 .flex-container12 {
-    height: 480px;
+    height: 600px;
     width: 100%;
     border: 2px solid rgb(77, 76, 76);
     background-color: #1E1E1E;
@@ -488,9 +488,9 @@ font-weight: 900;
 .palm {
     height: 350px;
     width: 160px;
-    /* border: 2px solid pink; */
+    /* border: 2px solid pink;  */
     margin-bottom: 86px;
-    margin-top: 60px;
+    margin-top: 50px;
     margin-left: 15px;
 }
 .button {
@@ -521,4 +521,66 @@ font-weight: 900;
     height: 40px;
     width:  80px;
     margin-left: 50px;
+}
+.fccpc {
+    height: 40px;
+    width: 160px;
+    margin-left: 0px;
+}
+.personal {
+    height: 300px;
+    width: 180px;
+    /* border: 2px solid red; */
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.P {
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    /* text-align: center; */
+    padding-bottom: 0px;
+}
+.sub {
+    color: #d9dbe1;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 15px;
+    line-height: 24px;
+    /* margin-bottom: 10px; */
+}
+.palm12 {
+    height: 40px;
+    width: 110px;
+    padding-bottom: 15px;
+}
+.sure {
+    display: flex;
+}
+.copyright {
+    color: #d9dbe1;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.socialh {
+    height: 40px;
+    width: 160px;
+    display: flex;
+    /* justify-items: center; */
+    /* align-items: center; */
+    /* border: 2px solid red; */
+    margin-left: 1100px;
+}
+.insta {
+    height: 25px;
+    width: 25px;
+    margin-right: 15px;
+}
+.face {
+    height: 25px;
+    width: 25px;
+    margin-right: 15px;
 }
