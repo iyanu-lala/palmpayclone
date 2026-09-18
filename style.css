@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Poppins, sans-serif;
-    /* background-image: url(images/PalmPay_ Say yes to more/background.png); */
+    background-image: url(images/PalmPay _ Say yes to more/PalmPay _ Say yes to more/background.png);
     
 }
 .flex-container1 {
@@ -597,9 +597,22 @@ font-weight: 900;
 .Ann {
     height: 40px;
     width: 40px;
-    margin-top: 45px;
+    margin-top: 40px;
     margin-left: 45px;
 }
 .A {
+    display: flex;
+}
+.view {
+    height: 12px;
+    width: 60px;
+    margin-left: 45px;
+    margin-top: 15px;
+}
+.viewp {
+     margin-top: 15px;
+     margin-left: 10px;
+}
+.review {
     display: flex;
 }
