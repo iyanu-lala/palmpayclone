@@ -8,14 +8,13 @@ body {
 
 }
 
-.flex-container1 {
+.nav-bar {
     height: 60px;
     width: 100%;
     /* border: 2px solid black; */
     display: flex;
     position: fixed;
     background-color: white;
-
 }
 
 img1 {
@@ -46,15 +45,21 @@ img1 {
 }
 
 img2 {
-    height: 5px;
-    width: 7px;
+    /* height: 5px;
+    width: 7px; */
 }
 
 .nin {
-    width: 20px;
-    height: 20px;
+    width: 160px;
+    height: 40px;
     border: 2px solid;
     display: flex;
+    border-radius: 10px;
+    margin-top: 7px;
+}
+.img2t {
+    padding: 10px 10px;
+
 }
 
 .flex-container2 {
@@ -684,8 +689,8 @@ img2 {
     background-color: #1E1E1E;
     color: #3b3a3a;
     /* padding-left: 100px; */
-    /* padding-right: 100px; */
-    padding-top: 30px;
+    /* padding-right: 100px;  */
+       padding-top: 30px;
 }
 
 .Ann {
